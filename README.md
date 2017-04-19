@@ -1,4 +1,7 @@
-# test coverage for  [update-notifier (v2.1.0)](https://github.com/yeoman/update-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-update-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-update-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-update-notifier.svg)](https://travis-ci.org/npmtest/node-npmtest-update-notifier)
+# npmtest-update-notifier
+
+#### test coverage for  [update-notifier (v2.1.0)](https://github.com/yeoman/update-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-update-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-update-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-update-notifier.svg)](https://travis-ci.org/npmtest/node-npmtest-update-notifier)
+
 #### Update notifications for your CLI app
 
 [![NPM](https://nodei.co/npm/update-notifier.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/update-notifier)
