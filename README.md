@@ -1,6 +1,6 @@
 # npmtest-update-notifier
 
-#### test coverage for  [update-notifier (v2.1.0)](https://github.com/yeoman/update-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-update-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-update-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-update-notifier.svg)](https://travis-ci.org/npmtest/node-npmtest-update-notifier)
+#### basic test coverage for  [update-notifier (v2.1.0)](https://github.com/yeoman/update-notifier#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-update-notifier.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-update-notifier) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-update-notifier.svg)](https://travis-ci.org/npmtest/node-npmtest-update-notifier)
 
 #### Update notifications for your CLI app
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-update-notifier/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-update-notifier/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-update-notifier/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-update-notifier/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-update-notifier/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-update-notifier/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-update-notifier/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-update-notifier/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-update-notifier/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-update-notifier/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-update-notifier/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-update-notifier/build/coverage.html/index.html)
 
@@ -117,7 +117,8 @@
     "scripts": {
         "test": "xo && mocha --timeout 20000"
     },
-    "version": "2.1.0"
+    "version": "2.1.0",
+    "bin": {}
 }
 ```
 
